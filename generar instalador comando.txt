@@ -1,0 +1,6 @@
+pyinstaller --onefile validation.py
+
+1. con el cmd ir al directorio donde esta el archivo en formato .py
+2. una vez dentro del directorio ejecuta el comando cambiando el nombre "validation.py" por el nombre de tu archivo en python
+3. en la carpeta dist se genera un archivo ejecutable copialo y pegalo donde este el archivo de python original
+4. corre el ejecutable
